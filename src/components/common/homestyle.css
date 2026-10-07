@@ -1,0 +1,53 @@
+.MainHeading {
+  position: relative;
+  display: inline-block;
+  /* overflow: hidden; */
+}
+
+.MainHeading span {
+  position: absolute;
+  bottom: -16px;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-image: linear-gradient(to right, transparent, #003366);
+  animation: expand 3s infinite;
+}
+
+@keyframes expand {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+/* 
+ h3 {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 8px;
+    color: #333;
+    overflow: hidden;
+}
+
+h3 span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    border-bottom: 2px dashed black;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    animation: expand 2s infinite;
+}
+
+@keyframes expand {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+} */

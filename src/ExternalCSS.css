@@ -1,0 +1,27 @@
+
+.PrivacyHeading{
+    position: relative;
+    display: inline-block;
+    padding-bottom: 8px;
+    overflow: hidden;
+}
+
+
+.custom-scrollbar {
+    scrollbar-width: thin; 
+    scrollbar-color: rgb(5, 52, 118) transparent; 
+  }
+  .custom-scrollbarr {
+    scrollbar-width: thin; 
+    scrollbar-color: rgb(247, 249, 251) transparent; 
+  }
+
+.termsbackground{
+    background-image: url(./images/termsconditionimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ 
+  
+  

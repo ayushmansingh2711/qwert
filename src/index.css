@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Primary Color - #003366 */
+/* Secondary Color - #FF9416 */
+
+html {
+  font-family: "Nunito", sans-serif;
+  scroll-behavior: smooth;
+}

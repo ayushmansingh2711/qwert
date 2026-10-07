@@ -1,0 +1,61 @@
+{
+  "AllData": {
+    "Technologies": {
+      "DataScience": {
+        "name": "Data Science with Machine Learning & AI",
+        "TrainingStart": ["May", "June", "July"],
+        "TrainingDuration": ["30", "45", "60"],
+        "Fees": {
+          "30": 400,
+          "45": 800,
+          "60": 1200
+        }
+      },
+      "FullStackDevelopment": {
+        "name": "Full Stack Web Development",
+        "TrainingStart": ["April", "August"],
+        "TrainingDuration": ["40", "50"],
+        "Fees": {
+          "40": 600,
+          "50": 1000
+        }
+      },
+      "DevOpsCloud": {
+        "name": "DevOps & Cloud Engineering",
+        "TrainingStart": ["June", "September"],
+        "TrainingDuration": ["35", "55"],
+        "Fees": {
+          "35": 500,
+          "55": 900
+        }
+      },
+      "EmbeddedIOT": {
+        "name": "Embedded Systems & IoT",
+        "TrainingStart": ["July", "October"],
+        "TrainingDuration": ["45", "60"],
+        "Fees": {
+          "45": 700,
+          "60": 1100
+        }
+      },
+      "PythonCourse": {
+        "name": "Python",
+        "TrainingStart": ["May", "August"],
+        "TrainingDuration": ["25", "40"],
+        "Fees": {
+          "25": 300,
+          "40": 600
+        }
+      },
+      "LinuxCourse": {
+        "name": "Linux",
+        "TrainingStart": ["June", "September"],
+        "TrainingDuration": ["30", "45"],
+        "Fees": {
+          "30": 400,
+          "45": 800
+        }
+      }
+    }
+  }
+}

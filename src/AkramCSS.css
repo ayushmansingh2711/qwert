@@ -1,0 +1,150 @@
+.footer-btn > svg {
+  fill: #242424;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.double-column{
+  width: 30rem !important;
+}
+.double-column ul{
+  /* display: flex ; */
+  flex-wrap: wrap !important;
+  flex-direction: row !important;
+}
+.double-column li{
+  width: 45% !important;
+}
+.footer-btn:hover {
+  background-color: #003366;
+}
+
+.footer-btn:hover > svg {
+  fill: white;
+}
+
+.auto-slider {
+  display: flex;
+  align-items: center;
+  animation: swipe var(--speed) linear infinite backwards;
+}
+
+@keyframes swipe {
+  0% {
+    transform: translate(0);
+  }
+
+  100% {
+    transform: translate(-100%);
+  }
+}
+
+.nav-modal {
+  position: fixed;
+  box-shadow: 0px 0px 3px rgb(184, 184, 184);
+  padding: 0;
+  margin: 0;
+  width: 15rem;
+  z-index: 2000;
+  transition: all 1s;
+  border-radius: 5px;
+}
+
+.nav-sublist {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  font-weight: 500;
+}
+
+.nav-sublist li {
+  cursor: pointer;
+}
+
+.nav-sublist li:hover {
+  color: #ff9416;
+  scale: 1.04;
+  transition: all 0.1s;
+}
+
+.flip-card {
+  background-color: transparent;
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateX(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  border-radius: 5px;
+  padding: 1rem;
+  font-weight: 700;
+}
+
+.flip-card-front {
+  background-color: #003366;
+  color: white;
+  font-size: 1.3rem;
+}
+
+.flip-card-back {
+  background-color: #ff9416;
+  color: white;
+  transform: rotateX(180deg);
+}
+
+@media screen and (max-width: 400px) {
+  .videoSlider {
+    height: 46rem !important;
+  }
+}
+@media screen and (min-width: 401px) and (max-width: 450px) {
+  .videoSlider {
+    height: 45rem !important;
+  }
+}
+@media screen and (min-width: 451px) and (max-width: 500px) {
+  .videoSlider {
+    height: 43rem !important;
+  }
+}
+@media screen and (min-width: 501px) and (max-width: 640px) {
+  .videoSlider {
+    height: 41rem !important;
+  }
+}
+
+@media screen and (max-width: 515px) {
+  .coursesSlider {
+    height: 42rem !important;
+  }
+}
+@media screen and (min-width: 515px) and (max-width: 640px) {
+  .coursesSlider {
+    height: 35rem !important;
+  }
+}

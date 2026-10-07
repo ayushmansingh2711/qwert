@@ -1,0 +1,832 @@
+{
+    "core_java": {
+        "generativeAIProps": {
+            "heading": "Unlock Boundless Opportunities with Core Java",
+            "text": "Step into the world of software development with Core Java! This course is your gateway to mastering essential Java programming concepts, building robust applications, and laying a strong foundation for advanced technologies. Explore the limitless potential of Java and open doors to exciting career opportunities!",
+            "imagePath": "/images/core java/core java banner.png"
+        },
+        "demoClassProps": {
+            "videosrc": "https://www.youtube.com/embed/6f9ANg3BPas?si=w_oBaiRH-sviWzuc",
+            "content": "Dive into the world of Core Java and discover its power in building secure, scalable, and high-performance applications. Learn how Java drives modern software development. Watch our demo video to see it in action and take the first step toward an exciting future!",
+            "Heading": "CORE JAVA"
+        },
+        "curriculumProps": {
+            "duration": "45 Days",
+            "text": "Java Fundamentals, Object-Oriented Programming (OOP), Exception Handling, Multithreading & Concurrency, Collections & File Handling",
+            "pdf": "corejava",
+            "icon": "/ds_icon.png"
+        },
+        "contentLessonsProps": [
+            {
+                "lesson": "Course Lesson",
+                "title": "Java Fundamentals",
+                "description": "Master the core concepts of Java, including variables, data types, loops, and object-oriented programming (OOP)."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "OOPS",
+                "description": "Dive deep into core OOP principles such as encapsulation, inheritance, polymorphism, and abstraction. Learn how to design scalable and maintainable applications using real-world OOP concepts."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Exception Handling",
+                "description": "Learn how to handle errors efficiently to build robust and error-free applications."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Multithreading",
+                "description": "Understand concurrent programming to enhance application performance and efficiency."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Collections Framework",
+                "description": "Explore data structures like lists, sets, and maps for efficient data management."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Java I/O & File Handling",
+                "description": "Learn how to read, write, and manipulate files in Java for real-world applications."
+            }
+        ],
+        "toolsArray": [
+            {
+                "color": "blue3",
+                "img": "/images/core java/java.png",
+                "name": "Java Fundamentals"
+            },
+            {
+                "color": "white",
+                "img": "/images/core java/OOPs.png",
+                "name": "Object-Oriented Programming (OOP)"
+            },
+            {
+                "color": "blue4",
+                "img": "/images/core java/Exception Handling.png",
+                "name": "Exception Handling"
+            },
+            {
+                "color": "blue5",
+                "img": "/images/core java/Multithreading & Concurrency.png",
+                "name": "Multithreading & Concurrency"
+            },
+            {
+                "color": "red2",
+                "img": "/images/core java/Collections & File Handling.png",
+                "name": "Collections & File Handling"
+            }
+        ],
+        "reasonsArray": [
+            {
+                "title": "1. High Demand",
+                "text": "Java remains one of the most sought-after programming languages across industries."
+            },
+            {
+                "title": "2. Hands-On Learning",
+                "text": "Gain practical coding experience by building real-world Java applications."
+            },
+            {
+                "title": "3. Lucrative Opportunities",
+                "text": "Java developers enjoy high salaries and vast career growth potential."
+            },
+            {
+                "title": "4. Versatile Applications",
+                "text": "Use Java in web development, mobile apps, enterprise software, and more."
+            },
+            {
+                "title": "5. Future-Proof Career",
+                "text": "Java’s continued dominance ensures long-term job security and growth."
+            },
+            {
+                "title": "6. Entrepreneurial Edge",
+                "text": "Build your own software applications, frameworks, or startup solutions."
+            }
+        ],
+        "instructorProps": [
+            {
+                "title": "Ms. Nikita Jangid",
+                "description": "Instructor",
+                "image": "/nikita.jpg"
+            },
+            {
+                "title": "Experience",
+                "description": "Nikita holds an experience of 3+ years and is highly expert in the field of Data Science, Data Analytics, Full-Stack Web Development, and Core Java."
+            },
+            {
+                "title": "About Her",
+                "description": "A highly skilled and passionate instructor dedicated to mentoring students in building data-driven solutions, scalable applications, and automation techniques."
+            },
+            {
+                "title": "Her Expertise",
+                "description": "Proficient in Data Science (Python, R, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), Data Analytics & Visualization (SQL, Excel, Power BI, Tableau), and Core Java for robust application development. Experienced in Full-Stack Web Development, including front-end (HTML5, CSS3, JavaScript, React.js), back-end (Node.js, Express.js, RESTful APIs), and databases (MongoDB, MySQL). Skilled in Git/GitHub, automation, and guiding students toward industry-ready technical expertise."
+            }
+        ],
+        "faqItems": [
+            {
+                "title": "What is Core Java?",
+                "text": "Core Java refers to the fundamental concepts of Java programming, which serve as the backbone for developing desktop, web, and enterprise applications."
+            },
+            {
+                "title": "How does Java work?",
+                "text": "Java is a platform-independent language that runs on the Java Virtual Machine (JVM), allowing code to execute across different operating systems."
+            },
+            {
+                "title": "What are the applications of Java?",
+                "text": "Java is used in web development, Android applications, enterprise software, cloud computing, and gaming applications."
+            },
+            {
+                "title": "Do I need programming experience to learn Core Java?",
+                "text": "No prior experience is required, but basic logical thinking and problem-solving skills can help in understanding Java more easily."
+            },
+            {
+                "title": "What are the career opportunities in Java development?",
+                "text": "You can become a Java Developer, Software Engineer, Backend Developer, Android Developer, or Full-Stack Developer."
+            }
+        ],
+        "faqItems2": [
+            {
+                "title": "Which tools are used for Java development?",
+                "text": "Popular tools include Eclipse, IntelliJ IDEA, NetBeans, Maven, and Spring Framework for Java development."
+            },
+            {
+                "title": "What is the difference between Core Java and Advanced Java?",
+                "text": "Core Java focuses on basic programming concepts, while Advanced Java includes frameworks like Spring, Hibernate, and web technologies."
+            },
+            {
+                "title": "Is Java still relevant today?",
+                "text": "Yes, Java remains one of the most widely used programming languages, powering millions of applications worldwide."
+            },
+            {
+                "title": "Can Java be used for web development?",
+                "text": "Yes, Java is used in backend development with frameworks like Spring Boot for creating dynamic web applications."
+            },
+            {
+                "title": "How can I start learning Core Java?",
+                "text": "Start with Java basics, practice coding regularly, and work on real-world projects to strengthen your skills. Online courses and hands-on exercises can accelerate learning."
+            }
+        ]
+    },
+    "DataScienceMlAiCourse": {
+        "generativeAIProps": {
+            "heading": "Master Data Science, Machine Learning & AI",
+            "text": "Unlock the power of data with our comprehensive Data Science, Machine Learning, and AI course! Learn how to analyze data, build predictive models, and leverage artificial intelligence to solve real-world problems. Take the next step toward a future in data-driven innovation!",
+            "imagePath": "/images/python/python banner.png"
+        },
+        "demoClassProps": {
+            "videosrc": "https://www.youtube.com/embed/6f9ANg3BPas?si=w_oBaiRH-sviWzuc",
+            "content": "Explore the fascinating world of Data Science, Machine Learning, and AI. Discover how data-driven solutions are transforming industries. Watch our demo video to get started on your journey!",
+            "Heading": "DATA SCIENCE, MACHINE LEARNING & AI"
+        },
+        "curriculumProps": {
+            "duration": "45 Days",
+            "text": "Python for Data Science, Data Analysis & Visualization, Machine Learning, Deep Learning & AI, NLP & Computer Vision, Big Data Tools",
+            "pdf": "dataScienceSum",
+            "icon": "/ds_icon.png"
+        },
+        "contentLessonsProps": [
+            {
+                "lesson": "Course Lesson",
+                "title": "Python for Data Science",
+                "description": "Learn Python programming with a focus on data handling, libraries like NumPy and Pandas, and data preprocessing techniques."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Data Analysis & Visualization",
+                "description": "Master data exploration techniques using Matplotlib, Seaborn, and Power BI to generate meaningful insights."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Machine Learning",
+                "description": "Understand supervised and unsupervised learning algorithms, regression, classification, clustering, and model evaluation techniques."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Deep Learning & AI",
+                "description": "Dive into neural networks, TensorFlow, Keras, and advanced AI concepts to build deep learning models."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "NLP & Computer Vision",
+                "description": "Explore Natural Language Processing (NLP) techniques, sentiment analysis, and image processing with OpenCV."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Big Data Tools",
+                "description": "Learn how to work with Hadoop, Spark, and cloud computing for handling large datasets efficiently."
+            }
+        ],
+        "instructorProps": [
+            {
+                "title": "Mr. Govind Kumawat",
+                "description": "Data science instructor",
+                "image": "/Govind Kumawat.jpeg"
+            },
+            {
+                "title": "Experience",
+                "description": "Govind Holds an experience of 1.5+ years and is highly expert in the field of data science"
+            },
+            {
+                "title": "About Him",
+                "description": "Govind Kumawat is an accomplished Data Science professional with over 1.5+ years of experience, specializing in data analysis, machine learning, and statistical modeling. With a deep understanding of industry trends and a passion for teaching, he empowers students with the skills and knowledge needed to thrive in the dynamic and rapidly evolving field of data science."
+            },
+            {
+                "title": "His Expertise",
+                "description": "Programming & Core Skills: Python, SQL, NoSQL Machine Learning & AI: Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs) Specialized Domains: Natural Language Processing (NLP), Computer Vision MLOps & Cloud: MLOps, Cloud Computing"
+            }
+        ],
+        "toolsArray": [
+            {
+                "color": "blue3",
+                "img": "/images/dsmlai/python.png",
+                "name": "Python for Data Science"
+            },
+            {
+                "color": "white",
+                "img": "/images/dsmlai/machine_learning.png",
+                "name": "Machine Learning"
+            },
+            {
+                "color": "blue4",
+                "img": "/images/dsmlai/deep_learning.png",
+                "name": "Deep Learning & AI"
+            },
+            {
+                "color": "blue5",
+                "img": "/images/dsmlai/nlp.png",
+                "name": "NLP & Computer Vision"
+            },
+            {
+                "color": "red2",
+                "img": "/images/dsmlai/big_data.png",
+                "name": "Big Data Tools"
+            }
+        ],
+        "reasonsArray": [
+            {
+                "title": "1. High Demand",
+                "text": "Data Science and AI professionals are in high demand across industries."
+            },
+            {
+                "title": "2. Hands-On Learning",
+                "text": "Gain practical experience with real-world datasets and machine learning models."
+            },
+            {
+                "title": "3. Lucrative Opportunities",
+                "text": "Data Scientists and AI Engineers earn some of the highest salaries in tech."
+            },
+            {
+                "title": "4. Cutting-Edge Skills",
+                "text": "Master the latest technologies in AI, deep learning, and big data analytics."
+            },
+            {
+                "title": "5. Future-Proof Career",
+                "text": "AI and Machine Learning are the future, ensuring long-term job security."
+            },
+            {
+                "title": "6. Entrepreneurial Edge",
+                "text": "Build your own AI-driven applications and data-driven solutions."
+            }
+        ],
+        "faqItems": [
+            {
+                "title": "What is Data Science?",
+                "text": "Data Science is the field that combines statistics, machine learning, and data analysis techniques to extract insights from structured and unstructured data."
+            },
+            {
+                "title": "What is Machine Learning?",
+                "text": "Machine Learning is a branch of AI that enables systems to learn from data and make decisions without explicit programming."
+            },
+            {
+                "title": "How is AI different from Machine Learning?",
+                "text": "AI encompasses Machine Learning, Deep Learning, and other technologies that enable computers to mimic human intelligence. Machine Learning is a subset of AI focused on pattern recognition and prediction."
+            },
+            {
+                "title": "Do I need coding experience for this course?",
+                "text": "Basic programming knowledge is helpful but not required. We cover Python programming from scratch to help beginners get started."
+            },
+            {
+                "title": "What career opportunities are available in Data Science and AI?",
+                "text": "You can become a Data Scientist, Machine Learning Engineer, AI Developer, Data Analyst, or work in AI research and development."
+            }
+        ],
+        "faqItems2": [
+            {
+                "title": "Which tools are used for Data Science and AI?",
+                "text": "Popular tools include Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, and Jupyter Notebook."
+            },
+            {
+                "title": "What is the difference between Data Science and AI?",
+                "text": "Data Science focuses on analyzing data for insights, while AI involves building intelligent systems that can learn and make decisions."
+            },
+            {
+                "title": "Is Data Science still in demand?",
+                "text": "Yes, Data Science continues to be a highly sought-after field with vast career opportunities."
+            },
+            {
+                "title": "Can AI be used for business decision-making?",
+                "text": "Yes, AI and machine learning help businesses optimize operations, predict trends, and improve decision-making."
+            },
+            {
+                "title": "How can I start learning Data Science?",
+                "text": "Begin with Python programming, practice data analysis, and work on real-world projects. Online courses and hands-on exercises are great ways to learn."
+            }
+        ]
+    },
+    "DevopsCloudCourse": {
+        "generativeAIProps": {
+            "heading": "Master DevOps & Cloud Computing",
+            "text": "Accelerate your career with our comprehensive DevOps and Cloud Computing course! Learn automation, CI/CD, containerization, and cloud services to streamline software development and operations.",
+            "imagePath": "/images/linux/linux banner.png"
+        },
+        "demoClassProps": {
+            "videosrc": "https://www.youtube.com/embed/6f9ANg3BPas?si=w_oBaiRH-sviWzuc",
+            "content": "Explore the world of DevOps and Cloud Computing. Understand how automation and cloud platforms revolutionize software development. Watch our demo video to begin your journey!",
+            "Heading": "DEVOPS & CLOUD COMPUTING"
+        },
+        "curriculumProps": {
+            "duration": "45 Days",
+            "text": "Linux Basics, Version Control with Git, CI/CD with Jenkins, Docker & Kubernetes, Cloud Platforms (AWS, Azure, GCP), Infrastructure as Code with Terraform",
+            "pdf": "devopsSum",
+            "icon": "/devops_icon.png"
+        },
+        "contentLessonsProps": [
+            {
+                "lesson": "Course Lesson",
+                "title": "Linux Basics & Shell Scripting",
+                "description": "Learn the fundamentals of Linux and shell scripting for DevOps automation."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Version Control with Git",
+                "description": "Master Git and GitHub for managing source code effectively."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "CI/CD with Jenkins",
+                "description": "Automate software builds, testing, and deployment with Jenkins."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Containerization with Docker & Kubernetes",
+                "description": "Learn how to package applications using Docker and orchestrate them with Kubernetes."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Cloud Computing Fundamentals",
+                "description": "Understand cloud services on AWS, Azure, and GCP for scalable deployments."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Infrastructure as Code with Terraform",
+                "description": "Automate cloud infrastructure provisioning using Terraform."
+            }
+        ],
+        "toolsArray": [
+            {
+                "color": "blue3",
+                "img": "/images/devopscloud/linux.png",
+                "name": "Linux & Shell Scripting"
+            },
+            {
+                "color": "white",
+                "img": "/images/devopscloud/git.png",
+                "name": "Git & Version Control"
+            },
+            {
+                "color": "blue4",
+                "img": "/images/devopscloud/jenkins.png",
+                "name": "CI/CD with Jenkins"
+            },
+            {
+                "color": "blue5",
+                "img": "/images/devopscloud/docker.png",
+                "name": "Docker & Kubernetes"
+            },
+            {
+                "color": "red2",
+                "img": "/images/devopscloud/cloud.png",
+                "name": "Cloud Platforms"
+            }
+        ],
+        "instructorProps": [
+            {
+                "title": "Mr. Akash Gaur",
+                "description": "Senior Devops Instructor",
+                "image": "/Akash_sir.png"
+            },
+            {
+                "title": "Experience",
+                "description": "Akash Holds 8+ Years of experience in the field of devops"
+            },
+            {
+                "title": "About Him",
+                "description": "Our instructor not only possess in-depth knowledge of cloud platforms and DevOps practices but also have a passion for teaching. He guide our students in harnessing the power of cloud technologies."
+            },
+            {
+                "title": "His Expertise",
+                "description": "Linux , Cloud (like AWS, microsoft azure , GCP ), DevOps tools (like docker , kubernetes , jenkins , ansible , terraform ) , monitoring."
+            }
+        ],
+        "reasonsArray": [
+            {
+                "title": "1. High Demand",
+                "text": "DevOps and Cloud Computing professionals are in high demand across industries."
+            },
+            {
+                "title": "2. Hands-On Learning",
+                "text": "Gain practical experience with real-world cloud and DevOps tools."
+            },
+            {
+                "title": "3. Lucrative Opportunities",
+                "text": "DevOps Engineers and Cloud Specialists earn competitive salaries."
+            },
+            {
+                "title": "4. Cutting-Edge Skills",
+                "text": "Master the latest technologies in automation, CI/CD, and cloud computing."
+            },
+            {
+                "title": "5. Future-Proof Career",
+                "text": "Cloud and DevOps are shaping the future of software development and IT operations."
+            },
+            {
+                "title": "6. Entrepreneurial Edge",
+                "text": "Build your own cloud-based applications and automated workflows."
+            }
+        ],
+        "faqItems": [
+            {
+                "title": "What is DevOps?",
+                "text": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to enhance collaboration and automate workflows."
+            },
+            {
+                "title": "What is Cloud Computing?",
+                "text": "Cloud computing enables the delivery of computing services—servers, storage, databases, networking, software, and more—over the internet."
+            },
+            {
+                "title": "How do DevOps and Cloud work together?",
+                "text": "DevOps leverages cloud platforms to automate deployment, scaling, and monitoring, making software delivery faster and more reliable."
+            },
+            {
+                "title": "Do I need coding skills for DevOps?",
+                "text": "Basic scripting knowledge is helpful but not mandatory. DevOps focuses on automation, infrastructure management, and CI/CD processes."
+            },
+            {
+                "title": "What career opportunities are available in DevOps and Cloud Computing?",
+                "text": "You can become a DevOps Engineer, Cloud Engineer, Site Reliability Engineer (SRE), or Automation Engineer."
+            }
+        ],
+        "faqItems2": [
+            {
+                "title": "Which tools are used in DevOps?",
+                "text": "Popular DevOps tools include Docker, Kubernetes, Jenkins, Terraform, Ansible, and Git."
+            },
+            {
+                "title": "What is the difference between DevOps and Cloud Computing?",
+                "text": "DevOps focuses on software automation and collaboration, while cloud computing provides scalable infrastructure for applications."
+            },
+            {
+                "title": "Is Cloud Computing essential for DevOps?",
+                "text": "While not mandatory, cloud platforms like AWS, Azure, and GCP enhance DevOps practices by offering scalable infrastructure."
+            },
+            {
+                "title": "Can DevOps be implemented without the cloud?",
+                "text": "Yes, DevOps can be implemented on-premises, but cloud platforms provide greater flexibility and scalability."
+            },
+            {
+                "title": "How can I start learning DevOps and Cloud?",
+                "text": "Begin with Linux, scripting, version control, and CI/CD concepts. Hands-on experience with cloud providers and DevOps tools is recommended."
+            }
+        ]
+    },
+    "FrontendDevCourse": {
+        "generativeAIProps": {
+            "heading": "Master Frontend Web Development",
+            "text": "Build stunning, responsive websites with our comprehensive Frontend Web Development course! Learn HTML, CSS, JavaScript, React, and modern web technologies.",
+            "imagePath": "/fs_ banner_image.jpg"
+        },
+        "demoClassProps": {
+            "videosrc": "https://www.youtube.com/embed/6f9ANg3BPas?si=w_oBaiRH-sviWzuc",
+            "content": "Explore the world of Frontend Web Development. Understand how to create engaging user interfaces and interactive experiences. Watch our demo video to begin your journey!",
+            "Heading": "FRONTEND WEB DEVELOPMENT"
+        },
+        "curriculumProps": {
+            "duration": "45 Days",
+            "text": "HTML & CSS, JavaScript & ES6, Responsive Design, React.js, State Management, Web Performance Optimization",
+            "pdf": "frontendSum",
+            "icon": "/devops_icon.png"
+        },
+        "contentLessonsProps": [
+            {
+                "lesson": "Course Lesson",
+                "title": "HTML & CSS Fundamentals",
+                "description": "Learn the building blocks of web development: HTML for structure and CSS for styling."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "JavaScript & ES6 Features",
+                "description": "Master JavaScript fundamentals and modern ES6 features for dynamic web applications."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Responsive Web Design",
+                "description": "Learn how to create mobile-friendly and accessible web layouts."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "React.js Basics",
+                "description": "Build dynamic user interfaces using React.js and component-based architecture."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "State Management with Redux",
+                "description": "Manage complex application states efficiently using Redux."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Web Performance Optimization",
+                "description": "Enhance website speed and user experience with best practices."
+            }
+        ],
+        "toolsArray": [
+            {
+                "color": "blue3",
+                "img": "/images/frontendwebdev/html.png",
+                "name": "HTML & CSS"
+            },
+            {
+                "color": "white",
+                "img": "/images/frontendwebdev/js.png",
+                "name": "JavaScript & ES6"
+            },
+            {
+                "color": "blue4",
+                "img": "/images/frontendwebdev/react.png",
+                "name": "React.js"
+            },
+            {
+                "color": "blue5",
+                "img": "/images/frontendwebdev/redux.png",
+                "name": "Redux & State Management"
+            },
+            {
+                "color": "red2",
+                "img": "/images/frontendwebdev/performance.png",
+                "name": "Web Performance Optimization"
+            }
+        ],
+        "reasonsArray": [
+            {
+                "title": "1. High Demand",
+                "text": "Frontend developers are in high demand for modern web applications."
+            },
+            {
+                "title": "2. Hands-On Learning",
+                "text": "Gain real-world experience by building projects from scratch."
+            },
+            {
+                "title": "3. Lucrative Opportunities",
+                "text": "Frontend Developers earn competitive salaries globally."
+            },
+            {
+                "title": "4. Cutting-Edge Skills",
+                "text": "Master the latest frontend frameworks and technologies."
+            },
+            {
+                "title": "5. Future-Proof Career",
+                "text": "Web development is constantly evolving, ensuring career longevity."
+            },
+            {
+                "title": "6. Entrepreneurial Edge",
+                "text": "Build your own websites, web apps, and online businesses."
+            }
+        ],
+        "instructorProps": [
+            {
+                "title": "Mr. Ankur Singh",
+                "description": "Full Stack Developer",
+                "image": "/trainers/ankur.jpg"
+            },
+            {
+                "title": "Experience",
+                "description": "Ankur holds an experience of 4+ years in the field of web development."
+            },
+            {
+                "title": "About Him",
+                "description": "Our web development trainer is proficient and  deeply passionate about teaching full-stack web development. With their expertise, they guide students in mastering both front-end and back-end technologies, empowering them to build robust and scalable web applications."
+            },
+            {
+                "title": "His Expertise",
+                "description": "HTML 5, CSS 3.0, Javascript with ES 6, Bootstrap, React.Js, Node.js, Django, Databases- Mongodb, My-Sql"
+            }
+        ],
+        "faqItems": [
+            {
+                "title": "What is Frontend Web Development?",
+                "text": "Frontend Web Development involves creating the visual and interactive aspects of a website using HTML, CSS, and JavaScript."
+            },
+            {
+                "title": "Do I need coding experience to learn frontend development?",
+                "text": "No prior experience is needed. Our course starts from the basics and progresses to advanced topics."
+            },
+            {
+                "title": "What are the career opportunities in frontend development?",
+                "text": "You can become a Frontend Developer, UI/UX Designer, Web Developer, or Full-Stack Developer."
+            },
+            {
+                "title": "Which technologies will I learn?",
+                "text": "You'll learn HTML, CSS, JavaScript, React.js, and modern frontend frameworks."
+            },
+            {
+                "title": "How can I start learning frontend web development?",
+                "text": "Begin with HTML & CSS, practice JavaScript, and work on real-world projects using React.js."
+            }
+        ],
+        "faqItems2": [
+            {
+                "title": "Which tools are used in frontend development?",
+                "text": "Popular tools include VS Code, Chrome DevTools, Git, React DevTools, and Webpack."
+            },
+            {
+                "title": "What is the difference between frontend and backend development?",
+                "text": "Frontend focuses on the user interface, while backend handles server-side logic and databases."
+            },
+            {
+                "title": "Is React necessary for frontend development?",
+                "text": "React is not mandatory but is widely used for building modern, scalable web applications."
+            },
+            {
+                "title": "Can I learn frontend development without a computer science degree?",
+                "text": "Yes! Many successful frontend developers are self-taught or have completed bootcamps and online courses."
+            },
+            {
+                "title": "How long does it take to become a frontend developer?",
+                "text": "With consistent learning and practice, you can become proficient in 3-6 months."
+            }
+        ]
+    },
+    "FullStackDevCourse": {
+        "generativeAIProps": {
+            "heading": "Master Full-Stack MERN Web Development",
+            "text": "Become a full-stack developer by mastering MongoDB, Express.js, React.js, and Node.js. Build real-world applications from scratch!",
+            "imagePath": "/fs_ banner_image.jpg"
+        },
+        "demoClassProps": {
+            "videosrc": "https://www.youtube.com/embed/6f9ANg3BPas?si=w_oBaiRH-sviWzuc",
+            "content": "Dive into Full-Stack MERN Web Development. Learn how to build dynamic web applications with modern technologies. Watch our demo video to get started!",
+            "Heading": "FULL-STACK MERN WEB DEVELOPMENT"
+        },
+        "curriculumProps": {
+            "duration": "45 Days",
+            "text": "MongoDB, Express.js, React.js, Node.js, REST APIs, Authentication, Deployment",
+            "pdf": "fullstackSum",
+            "icon": "/fullstack_icon.png"
+        },
+        "contentLessonsProps": [
+            {
+                "lesson": "Course Lesson",
+                "title": "Introduction to MERN Stack",
+                "description": "Understand the architecture and components of the MERN stack."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "MongoDB Basics",
+                "description": "Learn database management with MongoDB and Mongoose."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Express.js & Backend Development",
+                "description": "Build powerful RESTful APIs using Express.js."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "React.js for Frontend",
+                "description": "Develop dynamic user interfaces with React.js."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Node.js & Server-Side Logic",
+                "description": "Handle server-side operations and business logic with Node.js."
+            },
+            {
+                "lesson": "Course Lesson",
+                "title": "Authentication & Security",
+                "description": "Implement authentication and authorization with JWT."
+            }
+        ],
+        "toolsArray": [
+            {
+                "color": "green3",
+                "img": "/images/fullstackmern/mongodb.png",
+                "name": "MongoDB"
+            },
+            {
+                "color": "gray",
+                "img": "/images/fullstackmern/express.png",
+                "name": "Express.js"
+            },
+            {
+                "color": "blue4",
+                "img": "/images/fullstackmern/react.png",
+                "name": "React.js"
+            },
+            {
+                "color": "green5",
+                "img": "/images/fullstackmern/node.png",
+                "name": "Node.js"
+            },
+            {
+                "color": "orange2",
+                "img": "/images/fullstackmern/auth.png",
+                "name": "Authentication & Security"
+            }
+        ],
+        "instructorProps": [
+            {
+                "title": "Mr. Ankur Singh",
+                "description": "Full Stack Developer",
+                "image": "/trainers/ankur.jpg"
+            },
+            {
+                "title": "Experience",
+                "description": "Ankur holds an experience of 4+ years in the field of web development."
+            },
+            {
+                "title": "About Him",
+                "description": "Our web development trainer is proficient and  deeply passionate about teaching full-stack web development. With their expertise, they guide students in mastering both front-end and back-end technologies, empowering them to build robust and scalable web applications."
+            },
+            {
+                "title": "His Expertise",
+                "description": "HTML 5, CSS 3.0, Javascript with ES 6, Bootstrap, React.Js, Node.js, Django, Databases- Mongodb, My-Sql"
+            }
+        ],
+        "reasonsArray": [
+            {
+                "title": "1. Complete Skill Set",
+                "text": "Master both frontend and backend development with a single stack."
+            },
+            {
+                "title": "2. Industry Demand",
+                "text": "Full-stack developers are highly sought after in the job market."
+            },
+            {
+                "title": "3. Project-Based Learning",
+                "text": "Work on real-world projects to gain hands-on experience."
+            },
+            {
+                "title": "4. High-Paying Jobs",
+                "text": "Full-stack developers command competitive salaries globally."
+            },
+            {
+                "title": "5. Scalable Applications",
+                "text": "Learn how to build scalable and maintainable applications."
+            },
+            {
+                "title": "6. Startup & Freelance Ready",
+                "text": "Gain the skills to launch your own projects or work independently."
+            }
+        ],
+        "faqItems": [
+            {
+                "title": "What is the MERN stack?",
+                "text": "MERN stands for MongoDB, Express.js, React.js, and Node.js, a powerful technology stack for full-stack web development."
+            },
+            {
+                "title": "Do I need prior coding experience?",
+                "text": "Basic knowledge of programming is helpful but not required. This course covers concepts from beginner to advanced levels."
+            },
+            {
+                "title": "What career paths can I pursue?",
+                "text": "You can become a Full-Stack Developer, Software Engineer, or Freelance Web Developer."
+            },
+            {
+                "title": "What technologies will I learn?",
+                "text": "You will learn MongoDB, Express.js, React.js, Node.js, API development, and authentication."
+            },
+            {
+                "title": "How can I get started?",
+                "text": "Start by learning JavaScript, then move on to building projects using the MERN stack."
+            }
+        ],
+        "faqItems2": [
+            {
+                "title": "What tools are used in MERN development?",
+                "text": "Popular tools include VS Code, Postman, MongoDB Compass, Git, and Docker."
+            },
+            {
+                "title": "What is the difference between full-stack and frontend development?",
+                "text": "Full-stack development includes both frontend and backend, whereas frontend focuses only on the user interface."
+            },
+            {
+                "title": "Is the MERN stack good for startups?",
+                "text": "Yes! The MERN stack allows rapid development, making it ideal for startups and MVPs."
+            },
+            {
+                "title": "Can I learn MERN development without a CS degree?",
+                "text": "Yes! Many full-stack developers are self-taught or have completed online bootcamps."
+            },
+            {
+                "title": "How long does it take to become a full-stack developer?",
+                "text": "With consistent learning and practice, you can become job-ready in 6-12 months."
+            }
+        ]
+    }
+}

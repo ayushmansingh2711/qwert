@@ -1,0 +1,12 @@
+.VideoTestiDiv .swiper-pagination {
+    position: relative;
+    bottom: 0px !important;
+}
+.VideoTestiDiv .swiper-pagination-bullet-active{
+    background-color: #ff9416;
+}
+@media screen and (max-width: 1024px){
+    .ReactPlayer{
+        width: 100% !important;
+    }   
+}

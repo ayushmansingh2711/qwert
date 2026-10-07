@@ -1,0 +1,140 @@
+/* PricingPlanCard ends here */
+
+/* CTA */
+.CTAimage {
+    background-image: url('./images/CTABgImg.jpg');
+}
+/* CTA ends here*/
+
+/* Form */
+/* .formHeading{
+    text-shadow: 2px 1px 0 #f5b53f;
+} */
+/* .FormLabel{
+    text-shadow: 1px 1px 1px rgba(245, 181, 63, 1); 
+} */
+/* Form ends */
+
+@media (max-width: 400px) {
+    .custom-chooseConDiv {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .custom-PricingPlanBox {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 400px) {
+    .PricingPlanCardSec{
+        padding: 10px;
+    }
+    .PricingPlanCardSec .PricingPlanCardPara{
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .PricingPlanCardSec .PricingPlanCardParaDiv{
+        width: 36%;
+        padding: 5px;
+    }
+    .PricingPlanCardSec:hover .PricingPlanCardPara {
+        font-size: 22px; 
+    }
+}
+
+
+@media (min-width: 320px) and (max-width: 369px) {
+  .certificateInnerDiv{
+    display: none;
+  }
+}
+
+.tools-btn {
+    position: relative;
+    text-decoration: none;
+    color: #999999;
+    border: 4px solid#d3e5f8;
+    cursor: pointer;
+    transition: ease-out 0.2s;
+    -webkit-transition: ease-out 0.2s;
+    -moz-transition: ease-out 0.2s;
+    font-weight: 600;
+    background-color: #242424;
+  }
+  
+  .tools-btn-blue:hover {
+    border-color: #5252ff;
+    color: #5252ff;
+  }
+  .tools-btn-blue2:hover {
+    border-color: #87ceeb;
+    color: #87ceeb;
+  }
+  .tools-btn-blue3:hover {
+    border-color: #1273bb;
+    color: #1273bb;
+  }
+  .tools-btn-blue4:hover {
+    border-color: #099cec;
+    color: #099cec;
+  }
+  .tools-btn-blue5:hover {
+    border-color: #3499cd;
+    color: #3499cd;
+  }
+  .tools-btn-Darkblue:hover {
+    border-color: #0a3c91;
+    color: #0a3c91;
+  }
+  .tools-btn-yellow:hover {
+    border-color: rgb(255, 255, 32);
+    color: rgb(255, 255, 32);
+  }
+  .tools-btn-yellow2:hover {
+    border-color: #f9be3c;
+    color: #f9be3c;
+  }
+  
+  .tools-btn-green:hover {
+    border-color: green;
+    color: #008000;
+  }
+  .tools-btn-green2:hover {
+    border-color: rgb(24, 179, 24);
+    color: rgb(24, 179, 24);
+  }
+  .tools-btn-green3:hover {
+    border-color: #7eb26b;
+    color: #7eb26b;
+  }
+  
+  .tools-btn-grey:hover {
+    border-color: grey;
+    color: #808080;
+  }
+  
+  .tools-btn-red:hover {
+    border-color: red;
+    color: #ff0000;
+  }
+  .tools-btn-red2:hover {
+    border-color: #fe5e5b;
+    color: #fe5e5b;
+  }
+  .tools-btn-orange:hover {
+    border-color: #ff7335;
+    color: #ff7335;
+  }
+  .tools-btn-orange2:hover {
+    border-color: #da7f47;
+    color: #da7f47;
+  }
+  .tools-btn-white:hover {
+    border-color: white;
+    color: white;
+  }
+  .tools-btn-purple:hover {
+    border-color: #7556a4;
+    color: #7556a4;
+  }

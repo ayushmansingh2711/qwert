@@ -1,0 +1,22 @@
+.dropdown1{
+    display: none
+}
+.show-dropdown1{
+    width: 15rem;
+    display: flex;
+    position: absolute;
+    top:0%;
+    left: 100%;    
+}
+.show-dropdown2{
+    width: 15rem;
+    display: flex;
+    position: absolute;
+    top:10%;
+    left: 100%;    
+}
+.arrow-icon{
+    display: inline;
+}
+  
+  

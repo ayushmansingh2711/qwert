@@ -1,0 +1,57 @@
+.NeetaSwiper .swiper-pagination {
+  position: absolute;
+  top: 95%;
+}
+
+.swiper-slide {
+  display: flex;
+  height: auto; /* Ensures slides adapt dynamically */
+}
+
+
+
+
+.VideoBTNDHARAM:before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  display: block;
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  border-radius: 50%;
+  animation: pulse-border 1500ms ease-out infinite;
+}
+
+.VideoBTNDHARAM:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  display: block;
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  border-radius: 50%;
+  transition: all 200ms;
+}
+
+.VideoBTNDHARAM:hover:after {
+  background-color: darken(#9c5300, 10%);
+}
+
+@keyframes pulse-border {
+  0% {
+    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.7);
+    opacity: 0;
+  } 
+}

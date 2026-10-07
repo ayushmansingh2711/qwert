@@ -1,0 +1,91 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 60px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 350px;
+    position: relative; /* Added to ensure label positioning works */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.workshop-label {
+    background-color:white;
+    color:red;
+    font-weight: 600;
+    padding: 5px 10px;
+    font-size: 12px;
+    position: absolute; 
+    top: 10px;
+    left: 10px;
+    border-radius: 20px;
+    z-index: 1; 
+}
+.workshop-label:hover {
+    color: rgb(68, 61, 61);
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-body h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.card-body h2:hover {
+    color: red;
+}
+
+.card-body p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.card-body ul {
+    list-style: none;
+    list-style-type: square;
+    padding: 0;
+    margin: 0;
+}
+
+.card-body ul li {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.register-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.register-btn:hover {
+    background-color:black;
+}
+
+.card:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
